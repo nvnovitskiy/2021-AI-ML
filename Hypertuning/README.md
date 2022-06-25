@@ -43,7 +43,7 @@ DecisionTreeClassifier GridSearch:
 
 KNeighborsClassifier RandomSearch:
 
-![third](https://github.com/witssaa/2021-AI-ML/blob/main/Hypertuning/images/knn_with_grid_search.png)
+![third](https://github.com/witssaa/2021-AI-ML/blob/main/Hypertuning/images/knn_with_random_search.png)
 
 KNeighborsClassifier GridSearch:
 
