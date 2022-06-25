@@ -17,13 +17,13 @@
 
 ## Графики, показывающие результат оценки зависимости точности модели и числа выбранных признаков.
 
-![image2](https://github.com/witssaa/2021-AI-ML/blob/main/Future%20selection/images/class_report2.png)
+![image2](https://github.com/witssaa/2021-AI-ML/blob/main/Future%20selection/images/graphic.png)
 
 ## Таблица содержащая f1-score, precision, и recall полученные для лучшей модели, которую вы смогли обучить.
 
 TRAIN:
 
-![image3](https://github.com/nvnovitskiy/2021-ARTIFICIAL-INTELLEGENCE-AND-MACHINE-LEARNING/blob/main/task4/images/class_report2.png)
+![image3](https://github.com/witssaa/2021-AI-ML/blob/main/Future%20selection/images/class_report2.png)
 
 TEST:
 
