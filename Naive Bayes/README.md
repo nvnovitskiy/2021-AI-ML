@@ -21,23 +21,23 @@
 
 GaussianNB:
 
-![gnb](https://github.com/nvnovitskiy/artificial-intelligence-and-machine-learning/blob/main/task2/images/gnb.png)
+![gnb](https://github.com/witssaa/2021-AI-ML/blob/main/Naive%20Bayes/images/gnb.png)
 
 OwnNB:
 
-![onb](https://github.com/nvnovitskiy/artificial-intelligence-and-machine-learning/blob/main/task2/images/onb.png)
+![onb](https://github.com/witssaa/2021-AI-ML/blob/main/Naive%20Bayes/images/onb.png)
 
 MultinomialNB:
 
-![mnb](https://github.com/nvnovitskiy/artificial-intelligence-and-machine-learning/blob/main/task2/images/mnb.png)
+![mnb](https://github.com/witssaa/2021-AI-ML/blob/main/Naive%20Bayes/images/mnb.png)
 
 ComplementNB:
 
-![сnb](https://github.com/nvnovitskiy/artificial-intelligence-and-machine-learning/blob/main/task2/images/cnb.png)
+![сnb](https://github.com/witssaa/2021-AI-ML/blob/main/Naive%20Bayes/images/cnb.png)
 
 BernoulliNB:
 
-![bnb](https://github.com/nvnovitskiy/artificial-intelligence-and-machine-learning/blob/main/task2/images/bnb.png)
+![bnb](https://github.com/witssaa/2021-AI-ML/blob/main/Naive%20Bayes/images/bnb.png)
 
 
 ## Точность классификаторов (лучшие OwnNB & GaussianNB):
@@ -52,7 +52,7 @@ BernoulliNB:
 
 ## Гистограмма производительности классификаторов:
 
-![hist](https://github.com/nvnovitskiy/artificial-intelligence-and-machine-learning/blob/main/task2/images/hist.png)
+![hist](https://github.com/witssaa/2021-AI-ML/blob/main/Naive%20Bayes/images/hist.png)
 
 
 ## Стабильность классификаторов (самый стабильный GaussianNB):
@@ -69,7 +69,7 @@ BernoulliNB:
 
 ## График стабильности классификаторов в зависимости от времени:
 
-![stability](https://github.com/nvnovitskiy/artificial-intelligence-and-machine-learning/blob/main/task2/images/stability.png)
+![stability](https://github.com/witssaa/2021-AI-ML/blob/main/Naive%20Bayes/images/stability.png)
 
 
 
