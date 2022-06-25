@@ -35,19 +35,19 @@ KNeighborsClassifier GridSearch:
 
 DecisionTreeClassifier RandomSearch:
 
-![first](https://github.com/nvnovitskiy/artificial-intelligence-and-machine-learning/blob/main/task3/images/dtc_with_random_search.png)
+![first](https://github.com/witssaa/2021-AI-ML/blob/main/Hypertuning/images/dtc_with_random_search.png)
 
 DecisionTreeClassifier GridSearch:
 
-![second](https://github.com/nvnovitskiy/artificial-intelligence-and-machine-learning/blob/main/task3/images/dtc_with_grid_search.png)
+![second](https://github.com/witssaa/2021-AI-ML/blob/main/Hypertuning/images/dtc_with_grid_search.png)
 
 KNeighborsClassifier RandomSearch:
 
-![third](https://github.com/nvnovitskiy/artificial-intelligence-and-machine-learning/blob/main/task3/images/knn_with_random_search.png)
+![third](https://github.com/witssaa/2021-AI-ML/blob/main/Hypertuning/images/knn_with_grid_search.png)
 
 KNeighborsClassifier GridSearch:
 
-![fourth](https://github.com/nvnovitskiy/artificial-intelligence-and-machine-learning/blob/main/task3/images/knn_with_grid_search.png)
+![fourth](https://github.com/witssaa/2021-AI-ML/blob/main/Hypertuning/images/knn_with_grid_search.png)
 
 ## Выводы о плюсах и минусах используемых методов поиска оптимальных параметров
 
