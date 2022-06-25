@@ -13,11 +13,11 @@
 
 ## DataFrame с признаками и их информативностью, отсортированный по убыванию.
 
-![image1](https://github.com/nvnovitskiy/2021-ARTIFICIAL-INTELLEGENCE-AND-MACHINE-LEARNING/blob/main/task4/images/dataframe.png)
+![image1](https://github.com/witssaa/2021-AI-ML/blob/main/Future%20selection/images/dataframe.png)
 
 ## Графики, показывающие результат оценки зависимости точности модели и числа выбранных признаков.
 
-![image2](https://github.com/nvnovitskiy/2021-ARTIFICIAL-INTELLEGENCE-AND-MACHINE-LEARNING/blob/main/task4/images/graphic.png)
+![image2](https://github.com/witssaa/2021-AI-ML/blob/main/Future%20selection/images/class_report2.png)
 
 ## Таблица содержащая f1-score, precision, и recall полученные для лучшей модели, которую вы смогли обучить.
 
@@ -27,8 +27,8 @@ TRAIN:
 
 TEST:
 
-![image4](https://github.com/nvnovitskiy/2021-ARTIFICIAL-INTELLEGENCE-AND-MACHINE-LEARNING/blob/main/task4/images/class_report1.png)
+![image4](https://github.com/witssaa/2021-AI-ML/blob/main/Future%20selection/images/class_report1.png)
 
 ## Визуализируйте предсказания вашей лучшей модели.
 
-![image5](https://github.com/nvnovitskiy/2021-ARTIFICIAL-INTELLEGENCE-AND-MACHINE-LEARNING/blob/main/task4/images/model_visual.png)
+![image5](https://github.com/witssaa/2021-AI-ML/blob/main/Future%20selection/images/model_visual.png)
