@@ -34,10 +34,10 @@ columns = {
 df = pd.DataFrame(data = columns)
 ```
 ## Графическое представления расположения набора данных
-![visualization](https://github.com/nvnovitskiy/artificial-intelligence-and-machine-learning/blob/main/task1/visual.png)
+![visualization](https://github.com/witssaa/2021-AI-ML/blob/main/Logistic%20Regression/images/visual.png)
 
 ## Матрица ошибок
-![heatmap](https://github.com/nvnovitskiy/artificial-intelligence-and-machine-learning/blob/main/task1/heat.png)
+![heatmap](https://github.com/witssaa/2021-AI-ML/blob/main/Logistic%20Regression/images/heat.png)
 
 ## Значение точности классификации
 ```python
