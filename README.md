@@ -6,8 +6,8 @@ ____
 
  № Л/р | Название | Статус| Ссылка
  ----- |----------|-------|------
- 1 | Logistic Regression |✅| [Ссылка](https://github.com/nvnovitskiy/artificial-intelligence-and-machine-learning/tree/main/task1)
- 2 | Naive Bayes |✅ | [Ссылка](https://github.com/nvnovitskiy/artificial-intelligence-and-machine-learning/tree/main/task2)
- 3 | Hypertuning |✅ | [Ссылка](https://github.com/nvnovitskiy/artificial-intelligence-and-machine-learning/tree/main/task3) 
- 4 | Future selection |✅ | [Ссылка](https://github.com/nvnovitskiy/artificial-intelligence-and-machine-learning/tree/main/task4) 
- 5 | Clustering |✅ | [Ссылка](https://github.com/nvnovitskiy/artificial-intelligence-and-machine-learning/tree/main/task5)
+ 1 | Logistic Regression |✅| [Ссылка](https://github.com/witssaa/2021-AI-ML/tree/main/Logistic%20Regression)
+ 2 | Naive Bayes |✅ | [Ссылка](https://github.com/witssaa/2021-AI-ML/tree/main/Naive%20Bayes)
+ 3 | Hypertuning |✅ | [Ссылка](https://github.com/witssaa/2021-AI-ML/tree/main/Hypertuning) 
+ 4 | Future selection |✅ | [Ссылка](https://github.com/witssaa/2021-AI-ML/tree/main/Future%20selection) 
+ 5 | Clustering |✅ | [Ссылка](https://github.com/witssaa/2021-AI-ML/tree/main/Clustering)
